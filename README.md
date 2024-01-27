@@ -1,3 +1,11 @@
+# Json server is usd for api integration
+
+# install json-server
+### `npm install -g json-serv`
+
+# move to Database folder path and run 
+### `json-server --watch db.json`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

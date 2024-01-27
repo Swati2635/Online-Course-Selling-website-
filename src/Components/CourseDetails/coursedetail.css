@@ -1,0 +1,12 @@
+.title{
+    font-size: 20px;
+ font-weight: 700;
+}
+.imgcourse{
+    width:30%;
+    height: auto;
+}
+.courseInfo{
+display: flex;
+justify-content: flex-start;
+}

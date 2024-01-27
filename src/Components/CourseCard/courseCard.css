@@ -1,0 +1,23 @@
+/* .card{
+    margin:10px ;
+} */
+.btns{
+    display:flex;
+    justify-content: space-between;
+}
+.title{
+    font-size: 20px;
+ font-weight: 700;
+}
+
+.text-container {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    /* Number of lines you want to display */
+    -webkit-line-clamp: 2;
+    /* Height of each line */
+    line-height: 1.2em;
+    /* Max height of container */
+    max-height: 2.4em; /* 2 lines * 1.2em */
+}

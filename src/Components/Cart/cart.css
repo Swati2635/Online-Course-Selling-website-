@@ -1,0 +1,13 @@
+.cardDiv{
+    display: flex;
+	justify-content: space-between;
+    margin:10px;
+    border: 1px solid #000;
+	align-items: center;
+    padding:10px;
+}
+
+.title{
+    font-size: 20px;
+ font-weight: 700;
+}
